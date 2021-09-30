@@ -16,7 +16,7 @@ A linguagem escolhida para criação dos códigos foi o C#, a documentação pod
 
 
 
-### Trecho de código de laço de repetição
+### Detalhes dos desafios
 
 **1) Observe o trecho de código abaixo:**
 

@@ -1,0 +1,16 @@
+C:\Users\Daniel\Desktop\Desafio_Target\lacoRepeticao\bin\Debug\net5.0\lacoRepeticao.exe
+C:\Users\Daniel\Desktop\Desafio_Target\lacoRepeticao\bin\Debug\net5.0\lacoRepeticao.deps.json
+C:\Users\Daniel\Desktop\Desafio_Target\lacoRepeticao\bin\Debug\net5.0\lacoRepeticao.runtimeconfig.json
+C:\Users\Daniel\Desktop\Desafio_Target\lacoRepeticao\bin\Debug\net5.0\lacoRepeticao.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\Desafio_Target\lacoRepeticao\bin\Debug\net5.0\lacoRepeticao.dll
+C:\Users\Daniel\Desktop\Desafio_Target\lacoRepeticao\bin\Debug\net5.0\ref\lacoRepeticao.dll
+C:\Users\Daniel\Desktop\Desafio_Target\lacoRepeticao\bin\Debug\net5.0\lacoRepeticao.pdb
+C:\Users\Daniel\Desktop\Desafio_Target\lacoRepeticao\obj\Debug\net5.0\lacoRepeticao.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Desafio_Target\lacoRepeticao\obj\Debug\net5.0\lacoRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Desafio_Target\lacoRepeticao\obj\Debug\net5.0\lacoRepeticao.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Desafio_Target\lacoRepeticao\obj\Debug\net5.0\lacoRepeticao.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Desafio_Target\lacoRepeticao\obj\Debug\net5.0\lacoRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Desafio_Target\lacoRepeticao\obj\Debug\net5.0\lacoRepeticao.dll
+C:\Users\Daniel\Desktop\Desafio_Target\lacoRepeticao\obj\Debug\net5.0\ref\lacoRepeticao.dll
+C:\Users\Daniel\Desktop\Desafio_Target\lacoRepeticao\obj\Debug\net5.0\lacoRepeticao.pdb
+C:\Users\Daniel\Desktop\Desafio_Target\lacoRepeticao\obj\Debug\net5.0\lacoRepeticao.genruntimeconfig.cache
