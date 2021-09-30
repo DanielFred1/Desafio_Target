@@ -16,7 +16,7 @@ namespace lacoRepeticao
                 SomaTotal += K;
             }
 
-            Console.WriteLine(SomaTotal);                
+            Console.WriteLine($"O resultado do algoritmo é: {SomaTotal}");                
         }
     }
 }
